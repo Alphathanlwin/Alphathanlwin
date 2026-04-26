@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">🤖 Creating bugs while building AI systems — and fixing them even faster ⚡<br>🧠 Passionate about AI Engineering, currently working with LLMs, RAG systems, and GenAI projects using Python & TypeScript 🚀<br>🎯 Goal: Become a strong AI engineer and build real-world AI products that people actually use 🌍<br>⚙️ Fun fact: I turn random ideas into AI systems… even if they break before they work 🔥</p>
+<p align="left">🤖 Creating bugs while building AI systems — and fixing them even faster <br>🧠 Passionate about AI Engineering, currently working with LLMs, RAG systems, and GenAI projects using Python & TypeScript 🚀<br>🎯 Goal: Become a strong AI engineer and build real-world AI products that people actually use 🌍<br>⚙️ Fun fact: I turn random ideas into AI systems… even if they break before they work 🔥</p>
 
 ###
 
