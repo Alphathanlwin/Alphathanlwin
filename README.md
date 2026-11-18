@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm aspiring GenAi engineer from Myanmar.</p>
+<p align="left">I'm aspiring Ai engineer from Myanmar.</p>
 
 ###
 
